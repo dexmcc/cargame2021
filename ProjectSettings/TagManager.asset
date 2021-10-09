@@ -38,6 +38,15 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Para3
+    uniqueID: 689845125
+    locked: 0
+  - name: Para2
+    uniqueID: 2919106305
+    locked: 0
+  - name: Para1
+    uniqueID: 783773253
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
